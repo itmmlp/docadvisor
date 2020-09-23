@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Certificates](#certificates)
-    - [Possession_certificate](#Possession_certificate)
+    - [Possession certificate](#Possession_certificate)
     
 ### Certificates
 [^top](#table-of-contents)
